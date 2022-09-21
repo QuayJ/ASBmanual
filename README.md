@@ -29,7 +29,8 @@ Website content: text and images
 Image tools
 text tools
 
-Sitemap https://www.gloomaps.com/sfibD9HKfZ
+Sitemap
+![Sitemap](https://github.com/QuayJ/ASBmanual/blob/a99a26f3467d0c9876aa45955a201e1e0fe5e9ea/gloomap_a51de6ff.png)
 
 Text templates
 Layout considerations
