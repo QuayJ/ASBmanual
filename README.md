@@ -1,7 +1,8 @@
-Name: ASecretBoutique
+Name: Let Me Try
 
 Similar sites:
-	https://asecretboutique.wixsite.com/asecretboutique
+
+	http://bharatyatra.online/untrafficked/
  
     http://polishchristmasguide.com/
 
@@ -26,12 +27,15 @@ Conclusion
     - encourage people to self care
 
 Goals
-    - to gain new clients
-    - help client understand what services are offered
-	- Successfully book an appointment through website with no contact
+    - 
+    
+    - 
+    
+	- 
+    
 
 Milestone
-    - customer adding product to cart
+    - Subscription
 
 Metrics
 
@@ -44,9 +48,9 @@ Image tools
 text tools
 
 Sitemap
-![Sitemap](https://github.com/QuayJ/ASBmanual/blob/a99a26f3467d0c9876aa45955a201e1e0fe5e9ea/gloomap_a51de6ff.png)
+![Sitemap](/Users/student/Downloads/gloomap_a80876dd.png)
 
- *ADD Back Facial to sitemap>services>facials
+ 
  
 Text templates
 
