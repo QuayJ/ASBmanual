@@ -48,7 +48,7 @@ Image tools
 text tools
 
 Sitemap
-![Sitemap](/Users/student/Downloads/gloomap_a80876dd.png)
+![Sitemap](https://github.com/QuayJ/LetMeTry/blob/bbd1334a49683ea6fd65faa5664e6f6054f3a968/gloomap_a80876dd.png)
 
  
  
