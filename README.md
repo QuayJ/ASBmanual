@@ -3,8 +3,8 @@ Name: Let Me Try
 Similar sites:
 
 	http://bharatyatra.online/untrafficked/
- 
-    http://polishchristmasguide.com/
+    
+    https://itsnotviolent.com/animation-guide
 
 
 
@@ -23,8 +23,8 @@ Conclusion
 
 ##Website purpose and goals
 
-    - purpose is to provide a service
-    - encourage people to self care
+    - purpose is bring awareness to mental health 
+    - encourage people to self care and help others
 
 Goals
     - 
@@ -36,6 +36,7 @@ Goals
 
 Milestone
     - Subscription
+    - leave a note
 
 Metrics
 
@@ -44,11 +45,13 @@ Analytics
 
 Website content: text and images
 
+    - Dribbble.com
+
 Image tools
 text tools
 
 Sitemap
-![Sitemap](https://github.com/QuayJ/LetMeTry/blob/bbd1334a49683ea6fd65faa5664e6f6054f3a968/gloomap_a80876dd.png)
+![Sitemap](https://github.com/QuayJ/LetMeTry/blob/a98d3cf5a73ce4d4e7f674f76fb7071cb515bceb/gloomap_b847b0c4.png)
 
  
  
@@ -59,4 +62,6 @@ Layout considerations
 Typography
 
 Target audience
+
+    - All ages, people struggling with mental health 
 
