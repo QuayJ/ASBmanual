@@ -26,9 +26,8 @@ Purpose:
     - encourage people to self care and help others
 
 Goals
-    - Add animation
-    
-    - 
+    - Add animation 
+    - Have successful interaction
     
     
 
@@ -38,8 +37,10 @@ Milestone
 
 Metrics
 
+    - What will bring people back
+
 Analytics
-    -what tools will I use?
+    - Google Analytics 
 
 Website content:
 
@@ -55,12 +56,17 @@ Sitemap
  
  add to the challenged - how to recognize the signs
  
+ Figma Mockup
  
+https://www.figma.com/file/T7cFg348lZQrNKT2y17eOS/LMT?node-id=7%3A17 
+
 Text templates
 
 Layout considerations
 
-Typography
+Functions
+    - Allow users to track their moods
+   
 
 Target audience
 
