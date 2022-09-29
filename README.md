@@ -15,8 +15,7 @@ The Struggle of menatal health
 
 Charcteristics:
 
-    - Horizontal scroll
-    - Animated Cursor
+    - Affective navigation
     
 Conclusion
 
@@ -37,9 +36,10 @@ Milestone
 
 Metrics
 
-    - What will bring people back
+    - Average session duration
 
 Analytics
+
     - Google Analytics 
 
 Website content:
@@ -48,27 +48,34 @@ Website content:
     - Burst.shopify
 
 
-text tools- 
+Text Tools-
+
+ 
 
 Sitemap
 ![Sitemap](https://github.com/QuayJ/LetMeTry/blob/a98d3cf5a73ce4d4e7f674f76fb7071cb515bceb/gloomap_b847b0c4.png)
 
  
  add to the challenged - how to recognize the signs
+
+
  
  Figma Mockup
  
 https://www.figma.com/file/T7cFg348lZQrNKT2y17eOS/LMT?node-id=7%3A17 
 
+
 Text templates
 
-Layout considerations
+Layout considerations:
+
+	- Horizontal scroll 
 
 Functions
     - Allow users to track their moods
-   
+    - Interactive component   
 
 Target audience
 
-    - All ages, people struggling with mental health 
+    - Adults, teens, children, people struggling with mental health 
 
