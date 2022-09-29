@@ -25,6 +25,7 @@ Purpose:
     - encourage people to self care and help others
 
 Goals
+
     - Add animation 
     - Have successful interaction
     
