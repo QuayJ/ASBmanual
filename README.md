@@ -18,7 +18,6 @@ Charcteristics:
     - Affective navigation
     - Mobile Compatible
     
-Conclusion
 
 Purpose:
 
@@ -36,6 +35,7 @@ Goals
     
 
 Milestone
+
     - Launching website	
     - Subscription
     - leave a note
